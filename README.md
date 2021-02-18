@@ -47,7 +47,9 @@
    <br><br><br>
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
-     Name:<code>180430148 xiaow1589 1580</code><br>
+     Name:<code>180430148 
+	xiaow1589 
+	1580</code><br>
      Value：<code>填写你的习讯云账号密码和学校ID,用空格或者空行分开</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
