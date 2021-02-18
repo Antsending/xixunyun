@@ -29,7 +29,7 @@
 -  fork后进入你自己的仓库并在setting配置您的习讯云账号信息
     <details>
    <summary> 如何配置？</summary>
-   1.首先进入自己的仓库（前提您已经登陆账号）
+   1.进入自己的仓库（前提您已经登陆账号）
 	
    ![image](https://raw.githubusercontent.com/kuilei0926/xixunyun/main/img/QQ%E6%88%AA%E5%9B%BE20201222092434.png)
    <br><br><br>
