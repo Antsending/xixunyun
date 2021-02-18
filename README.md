@@ -47,15 +47,11 @@
    <br><br><br>
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
-     Name:<code>180430148 
-	xiaow1589 
-	1580</code><br>
-     Value：<code>180430148 
-	xiaow1589 
-	1580</code><br>
+     Name:<code>USER</code><br>
+     Value：<code>180430148 xiaow1589 1580</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
-     Value：<code>120.600837,31.226321</code><br>
+     Value：<code>[120.600837,31.226321]</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>ADDRESS_NAME</code><br>
      Value：<code>苏州国际教育园</code><br>
